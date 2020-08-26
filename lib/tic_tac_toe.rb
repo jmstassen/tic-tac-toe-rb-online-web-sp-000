@@ -125,10 +125,3 @@ def play(board)
   end
 end
 
-
-#   counter = 1
-#   while counter <10
-#     turn(board)
-#     counter += 1
-#   end
-# end
